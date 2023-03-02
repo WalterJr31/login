@@ -20,7 +20,7 @@
                             <!-- Background image for card set in CSS! -->
                         </div>
                         <div class="card-body p-4 p-sm-5">
-                            <h5 class="card-title text-center mb-5 fw-light fs-5">Registra-se</h5>
+                            <h5 class="card-title text-center mb-5 fw-light fs-5">Entrar</h5>
                             <form>
 
                                 <div class="form-floating mb-3">
@@ -38,8 +38,6 @@
                                 <div class="d-grid mb-2">
                                     <button class="btn btn-lg btn-primary btn-login fw-bold text-uppercase" type="submit">Registar</button>
                                 </div>
-
-                                <a class="d-block text-center mt-2 small" href="#">Tem uma Conta? Entrar</a>
 
                                 <hr class="my-4">
 
